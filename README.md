@@ -4,3 +4,5 @@ A single-player top-down adventure scroller where the player is mysteriously tra
 
 
 The full game can be downloaded here: https://drive.google.com/file/d/1b-vR7TlgMsGQ1c5MJCCrVk1KeTkKLcva/view
+
+This game was developed by a two-person team over the course of the summer break in 2022.
